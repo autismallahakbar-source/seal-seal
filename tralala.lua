@@ -15,7 +15,7 @@ local Window = Rayfield:CreateWindow({
 local MainTab = Window:CreateTab(" Aimbot", nil)
 local ESPTab = Window:CreateTab(" ESP", nil)
 local ChecksTab = Window:CreateTab(" Checks", nil)
-local SettingsTab = Window:CreateTab( Settings", nil)
+local SettingsTab = Window:CreateTab( "Settings", nil)
 
 -- ===== ANA DEĞİŞKENLER =====
 local Players = game:GetService("Players")
